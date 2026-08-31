@@ -1,4 +1,4 @@
-# CS167-SP26-Notebook-2
+# CS167-Fall26-Notebook-2
 # Notebook #2: K Nearest Neighbors and Normalization
 ## Useful Pandas for Missing Data Functions
 - `isna()`: returns True for any missing data
